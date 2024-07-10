@@ -16,7 +16,7 @@ The Virtual Canvas allows users to draw in the air with their hands, using OpenC
 - **Clearing Canvas:** The eraser tool allows the user to clean specific parts of the canvas.
 
 ## Usage
--Install the required libraries using pip:
+- Install the required libraries using pip:
 ```bash
 pip install opencv-python mediapipe numpy
 ```
