@@ -11,9 +11,9 @@ The Virtual Canvas allows users to draw in the air with their hands, using OpenC
 
 ## Features
 
-- Drawing in Air: Allows users to draw on a virtual canvas by moving their fingers in the air.
-- Color Selection: Provides multiple coloured markers for drawing.
-- Clearing Canvas: The eraser tool allows the user to clean specific parts of the canvas.
+- **Drawing in Air:** Allows users to draw on a virtual canvas by moving their fingers in the air.
+- **Color Selection:** Provides multiple coloured markers for drawing.
+- **Clearing Canvas:** The eraser tool allows the user to clean specific parts of the canvas.
 
 ## Usage
 -Install the required libraries using pip:
@@ -22,6 +22,6 @@ pip install opencv-python mediapipe numpy
 ```
 - Clone the repository
 - Run the main script:
-  ```bash
+```bash
 python main.py
   ```
