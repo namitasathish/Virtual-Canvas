@@ -25,4 +25,5 @@ pip install opencv-python mediapipe numpy
 ```bash
 python main.py
   ```
-![Alt text](path/to/your/image.png)
+## 
+![](paint.jpg)
