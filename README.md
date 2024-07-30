@@ -27,4 +27,4 @@ python main.py
   ```
 ## Project Working
 
-![](paint.jpg) 
+<img src="paint.jpg" width="300" height="300">
