@@ -27,4 +27,4 @@ python main.py
   ```
 ## Project Working
 
-<img src="paint.jpg" width="450" height="300">
+<img src="paint.jpg" width="500" height="300">
