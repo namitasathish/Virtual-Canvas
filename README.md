@@ -1,4 +1,4 @@
-
+#Virtual Canvas
 ## Overview
 The Virtual Canvas allows users to draw in the air with their hands, using OpenCv and MediaPipe to capture movements and translate them into drawings on a digital canvas.
 
